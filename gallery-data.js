@@ -1,5 +1,5 @@
 window.GALLERY_DATA = {
-  "generatedAt": "2026-03-17T17:56:34.806801+00:00",
+  "generatedAt": "2026-03-18T03:23:32.737015+00:00",
   "sections": [
     {
       "id": "illustration",
@@ -65,10 +65,11 @@ window.GALLERY_DATA = {
           "tags": [
             "draft"
           ],
-          "imageCount": 1,
+          "imageCount": 2,
           "cover": "illustration/水竜（draft）/1C14852780D8873F10D6B24651A6C2C0.png",
           "images": [
-            "illustration/水竜（draft）/1C14852780D8873F10D6B24651A6C2C0.png"
+            "illustration/水竜（draft）/1C14852780D8873F10D6B24651A6C2C0.png",
+            "illustration/水竜（draft）/D7E916994758AF4BFE95E88DC7AEDC91.jpg"
           ]
         }
       ]
